@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7417d4ec90e066409ec50b981f91444, type: 3}
+  m_Name: Pop
+  m_EditorClassIdentifier: 
+  AudioDatas:
+  - {fileID: 11400000, guid: b53b3207e6e0de043bcfa07571ce57d5, type: 2}
+  - {fileID: 11400000, guid: 5d248b278b58e0143aece879f5286c18, type: 2}
+  - {fileID: 11400000, guid: ef61f1e6abf565846bfb1b01fcf15e94, type: 2}
+  - {fileID: 11400000, guid: a51a9c7f1279115419c6c551ba7248ac, type: 2}
+  - {fileID: 11400000, guid: d609f9b8a9e624547b937c3cff3dde8d, type: 2}
+  - {fileID: 11400000, guid: 0b2e4bdcdced27c4594035167333bf4b, type: 2}
+  - {fileID: 11400000, guid: 14447b4ab3b442941959c6c489133a0a, type: 2}
+  - {fileID: 11400000, guid: d544b05843edfe846a217ae3686b3b53, type: 2}
+  Volume: 0.4
+  PitchRandomization: 0.1
+  AudioGroup: 3

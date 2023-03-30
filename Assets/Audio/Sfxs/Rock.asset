@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7417d4ec90e066409ec50b981f91444, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  AudioDatas:
+  - {fileID: 11400000, guid: e700455cbb2c463418b21b62b2f14575, type: 2}
+  - {fileID: 11400000, guid: f86bcbf389f41044b983f45b6c4fdf0f, type: 2}
+  - {fileID: 11400000, guid: debc2eadc9038174c8e1cac8f0a47d18, type: 2}
+  - {fileID: 11400000, guid: 226cf3b27725cbe409b65466840eb8e4, type: 2}
+  - {fileID: 11400000, guid: 8d56c6fdf9c8dfa43b0b54aa3db9a7a3, type: 2}
+  - {fileID: 11400000, guid: 51120629265c1e74e8a3370a6b34b2eb, type: 2}
+  - {fileID: 11400000, guid: d38ee0a3501040c489f9c369cfa1a708, type: 2}
+  - {fileID: 11400000, guid: 79112e8e89a46924cb71307eaf81b38b, type: 2}
+  Volume: 0.6
+  PitchRandomization: 0.05
+  AudioGroup: 3

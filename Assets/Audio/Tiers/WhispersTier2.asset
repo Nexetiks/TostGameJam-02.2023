@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca4b6adef3c13944590d58a2c1b04c03, type: 3}
+  m_Name: WhispersTier2
+  m_EditorClassIdentifier: 
+  MinValueToEnableTier: 5
+  MinDelay: 2
+  MaxDelay: 9
+  AudioDatas:
+  - {fileID: 11400000, guid: 069cf67e8a2da12459d1c11d16fcd949, type: 2}
+  - {fileID: 11400000, guid: 4262851fcaaf39b499c504ddf40005b1, type: 2}
+  - {fileID: 11400000, guid: 02e6415d75b37ff4ba802948af28f6c4, type: 2}
+  - {fileID: 11400000, guid: 50ed9d299cb8f8e47834573a00a2ce2b, type: 2}
